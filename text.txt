@@ -1,0 +1,74 @@
+<div id="project">
+
+    <div class="project-img">
+      <img src="images/Nifty home.png" alt="">
+    </div>
+    <div class="project-info">
+      <p>
+        <br>
+        <br>
+        This is a clone of Nifty a project management software company that focuses on providing an all-in-one
+        solution. Get collaboration features, <br> discussions, document sharing, and reporting capabilities tied into
+        one
+        platform. With use cases in Agile development and legal <br> case management, Nifty can completely transform how
+        you
+        manage projects across various industries.
+      </p>
+      <br>
+      <br>
+      <h4>
+        <br>
+        Use Stack :
+        <br>
+        <br>
+
+        <p>HTML</p>
+        <br>
+
+        <p>CSS</p>
+        <br>
+        <p>JS</p>
+        <br>
+      </h4>
+      <br>
+      <a href="https://github.com/iamrishi007/Nifty-Project-Management">Git Project Code</a>
+      <br>
+      <a href="https://unrivaled-strudel-b4b906.netlify.app/">LIVE</a>
+    </div>
+
+    <div class="project-img">
+      <img src="images/cora.png" alt="">
+    </div>
+    <div class="project-info">
+      <p>
+        <br>
+        <br>
+        Cora's E-Commerce Excellence
+
+        Dive into the world of Cora's online marketplace, where my HTML and CSS expertise converged to shape an inviting
+        and efficient home page. Using HTML for robust <br>structure and CSS for a sleek aesthetic, the Cora website
+        stands
+        as a testament to <br> seamless e-commerce design. Join the experience, where every element is meticulously
+        crafted
+        for a delightful shopping journey.
+      </p>
+      <br>
+      <br>
+      <h4>
+        Use Stack :
+        <br>
+        <br>
+
+        <p>HTML</p>
+
+        <br>
+        <p>CSS</p>
+
+      </h4>
+      <br>
+      <a href="https://github.com/iamrishi007/Cora-Website">Git Project Code</a>
+      <br>
+      <a href="https://65a58db37aa5982952da28e7--cute-quokka-662830.netlify.app/">LIVE</a>
+    </div>
+
+  </div>
